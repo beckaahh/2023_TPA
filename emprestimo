@@ -1,0 +1,31 @@
+programa {
+  funcao inicio() {
+  //declaração de variavel
+  cadeia nome1 = "Becca"
+  cadeia nome2 = "Anna"
+  inteiro idadeA = 20
+  inteiro idadeB = 15
+  real saldoA = 70.00
+  real saldoB = 50.00
+  logico atrasado = verdadeiro
+  logico adiantado = verdadeiro
+  cadeia show = "Imagine Dragons"
+  inteiro idade.
+  //comparar as idades
+  escreva("Digite uma idade")
+  leia(idade)
+
+  se(idade < 18)
+    escreva("Você não pode ir no show do Imagine Dragons")
+  
+  senao
+    escreva("Você pode ir no show do Imagine Dragons")
+
+  se(idadeA < idadeB)
+    escreva ("Anna é mais velha que Becca")
+
+  senao 
+    escreva("Becca é mais velha que Anna")
+    
+  }
+}

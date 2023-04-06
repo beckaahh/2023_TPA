@@ -1,0 +1,33 @@
+programa {
+  funcao inicio() {
+//declaração de variavel
+cadeia Nome = "Mirella"
+inteiro AnosDeConta = 5
+real RendaMensal = 5.000
+logico NomeLimpo = verdadeiro
+
+inteiro AnosDeConta.
+//verificar anos de conta
+escreva("/digite seus Anos De Conta")
+leia(AnosDeConta)
+
+se(AnosDeConta > 5)
+escreva("Você pode fazer um emprestimo")
+
+senao
+escreva("Você nao pode fazer um emprestimo")
+
+real RendaMensal.
+//verificar RendaMensal
+escreva("/digite sua RendaMensal")
+leia(RendaMensal)
+
+se(RendaMensal > 5.000)
+escreva("você pode fazer um emprestimo")
+
+senao
+escreva("Você nao pode fazer um emprestimo")
+
+    
+  }
+}

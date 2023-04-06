@@ -1,0 +1,20 @@
+programa {
+  funcao inicio() {
+    //declaracao de variavel
+    logico disponivel = verdadeiro
+    inteiro andares = 4
+
+    logico disponivel.
+    //verificar se esta disponivel
+
+    inteiro andares.
+    escreva("selecione o andar de >3 ou <9")
+    leia(andar)
+
+    se (andar >3 ou 6<=)
+    escreva ("aguarde o elevador")
+
+    senao
+    escreva ("andar nao disponivel")
+  }
+}
